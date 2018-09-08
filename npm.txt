@@ -1,0 +1,7 @@
+
+npm install <name> 安装包    npm i <name> 简写
+npm install <name> --save 安装包，依赖信息会写到package.json里面
+npm install <name>@版本号   安装指定版本
+npm uninstall <nmae>  卸载包
+npm update <name> 升级包
+npm install <name> --sava-dev 安装开发环境下的依赖
